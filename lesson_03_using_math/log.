@@ -1,0 +1,5 @@
+-rw-r----- 1 syslog adm  49465 Jan 20 16:55 /var/log/auth.log
+-rw-r----- 1 syslog adm 335786 Jan 18 23:59 /var/log/auth.log.1
+-rw-r----- 1 syslog adm  17860 Jan 11 23:59 /var/log/auth.log.2.gz
+-rw-r----- 1 syslog adm   4282 Jan  5 08:13 /var/log/auth.log.3.gz
+-rw-r----- 1 syslog adm  15433 Jan  4 10:47 /var/log/auth.log.4.gz
